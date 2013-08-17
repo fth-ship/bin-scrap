@@ -1,0 +1,22 @@
+{
+    "name": "bin-scrap",
+    "version": "0.0.1",
+    "private": false,
+    "description": "",
+    "keywords": [
+        "scraps",
+        "code"
+    ],
+    "license": "BSD",
+    "url": "https://github.com/fth-ship/bin-scrap.git",
+    "main": "./lib/inde.js",
+    "dependencies": {
+        "level": "*"
+    },
+    "devDependencies": {
+        "should": "*"    
+    },
+    "engines": {
+        "node": ">=0.8.x"    
+    }
+}
